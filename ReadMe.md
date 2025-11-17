@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 ## 👨‍🎓 About Me<br><br>I am a **Postgraduate (MCA)** student who has recently completed my degree. Passionate about technology and innovation, I specialize in Web Designing and have a strong foundation in programming and data analysis.<br><br>---<br><br>## 💻 Skills<br><br>### Programming & Scripting Languages:<br>- **Python** (Advanced Level)<br>- HTML, CSS, Bootstrap (Responsive and Modern Web Design)<br><br>### Tools & Technologies:<br>- **Web Designing**: Proficient in building intuitive and responsive websites<br>- **Power BI**: Expertise in creating insightful and interactive dashboards<br><br>### Other Skills:<br>- Git & Version Control<br>- DevOps basics, including CI/CD pipelines and Cloud Infrastructure<br>- Data Analysis and Visualization<br><br>---<br><br>## 📈 My Strengths<br>- Strong analytical and problem-solving skills<br>- Highly creative and detail-oriented in web design<br>- A quick learner with the ability to adapt to new technologies<br><br>---<br><br>## 🌱 Currently Learning<br>- Machine Learning and deep Learning <br>- Quantum AI.
 
 
